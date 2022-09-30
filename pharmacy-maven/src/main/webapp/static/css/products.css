@@ -1,0 +1,45 @@
+body {
+	background: #728d73;
+	margin: 0;
+}
+
+.container {
+	display:flex;
+}
+.center {
+	text-align: center;
+	margin-top:7%;
+	margin-left:auto;
+	margin-right:auto;
+	color:white;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+table {
+    border: 1px solid white;
+    text-align:left;
+}
+
+tr {
+    border: 1px solid black;
+}
+
+a {
+	text-decoration: none;
+	padding:5px;
+}
+
+.del:hover{
+    background: red;
+    color:white;
+}
+.del {
+    color: red;
+}
+.upd:hover {
+	background: rgb(75, 75, 187);
+    color:white;
+}
+.upd{
+    color: rgb(75, 75, 187);
+}

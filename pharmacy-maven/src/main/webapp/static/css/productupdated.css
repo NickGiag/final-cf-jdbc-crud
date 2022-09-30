@@ -1,0 +1,30 @@
+body {
+	background: #728d73;
+	margin: 0;
+}
+
+.container {
+	display:flex;
+}
+.center {
+	border: 1px solid white;
+	padding:30px;
+	margin-top:9%;
+	margin-left:auto;
+	margin-right:auto;
+	color:white;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    background: #a2c11c;
+    padding: 9px;
+    color:white;
+    float:right;
+    margin:4px;
+    border:3px solid transparent;
+}
+a:hover{
+	border:3px solid #215d29;
+}
