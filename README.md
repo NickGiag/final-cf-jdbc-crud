@@ -1,4 +1,4 @@
-# final-cf-jdbc-crud
+# Final project for Code Academy, AUEB.
 The final project for Coding factory.
 
 Mainly in Java EE, using web servlets for controllers, javadriver for connection with mysql Database and jsps pages.
